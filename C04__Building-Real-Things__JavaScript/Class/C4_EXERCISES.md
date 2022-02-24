@@ -31,6 +31,6 @@ _Notes_
 
 ---
 
-## Exercise #2: Advanced
+## Exercise #3: Advanced
 
 **Aim**: Create a working JavaScript Clock
