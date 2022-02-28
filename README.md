@@ -22,3 +22,9 @@
 [Class 4: Building Real Things - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C04__Building-Real-Things__JavaScript/Class/C4_NOTES.md)
 
 [Class 4: Building Real Things - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C04__Building-Real-Things__JavaScript/Class/C4_EXERCISES.md)
+
+---
+
+[Class 5: Bookmarking App - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C05__Bookmarking-App__JavaScript/Class/C5_NOTES.md)
+
+[Class 5: Bookmarking - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C05__Bookmarking-App__JavaScript/Class/C5_EXERCISES.md)
