@@ -8,7 +8,7 @@
 
 ---
 
-## Exercise #1: Intermediate
+## Exercise #2: Intermediate
 
 **Aim**: Write a function that returns an array containing all the numbers inclusive to that range given the start and end values. See examples below.
 
