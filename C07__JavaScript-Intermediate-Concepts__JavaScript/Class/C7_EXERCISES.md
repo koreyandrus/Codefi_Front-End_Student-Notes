@@ -31,12 +31,6 @@ closure();
 
 **Aim**: Fix the code to print out the string message.
 
-_Example_
-
-```js
-const greeting = greetingMaker("Hello")
-greeting("James")    ➞    "Hello, James"
-```
 
 ---
 
