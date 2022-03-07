@@ -24,7 +24,7 @@ const remember = parent("remembers me");
 // Seems like the variable x would be gone after
 // parent is executed, but it's not.
 
-closure();
+remember();
 // Returns "remembers me" because the inner
 // function remembers x.
 ```
