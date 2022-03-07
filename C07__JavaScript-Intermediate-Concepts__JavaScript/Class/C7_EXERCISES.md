@@ -24,13 +24,12 @@ const remember = parent("remembers me");
 // Seems like the variable x would be gone after
 // parent is executed, but it's not.
 
-remember();
+closure();
 // Returns "remembers me" because the inner
 // function remembers x.
 ```
 
-**Aim**: Fix the greetingMaker() function to work with the greeting() function.
-The greeting() function has already been created (check the Tests tab).
+**Aim**: Fix the code to print out the string message.
 
 _Example_
 
