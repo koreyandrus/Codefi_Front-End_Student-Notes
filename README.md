@@ -41,3 +41,9 @@
 
 [Class 7: JavaScript Intermediate Concepts - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C07__JavaScript-Intermediate-Concepts__JavaScript/Class/C7_EXERCISES.md)
 
+---
+
+[Class 8: JavaScript Advanced Concepts - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C08__JavaScript-Advanced-Concepts__JavaScript/Class/C8_NOTES.md)
+
+[Class 8: JavaScript Advanced Concepts - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C08__JavaScript-Advanced-Concepts__JavaScript/Class/C8_EXERCISES.md)
+
