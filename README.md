@@ -34,3 +34,10 @@
 [Class 6: JavaScript Essential Concepts - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C06__JavaScript-Essential-Concepts__JavaScript/Class/C6_NOTES.md)
 
 [Class 6: JavaScript Essential Concepts - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C06__JavaScript-Essential-Concepts__JavaScript/Class/C6_EXERCISES.md)
+
+---
+
+[Class 7: JavaScript Intermediate Concepts - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C07__JavaScript-Intermediate-Concepts__JavaScript/Class/C7_NOTES.md)
+
+[Class 7: JavaScript Intermediate Concepts - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C07__JavaScript-Intermediate-Concepts__JavaScript/Class/C7_EXERCISES.md)
+

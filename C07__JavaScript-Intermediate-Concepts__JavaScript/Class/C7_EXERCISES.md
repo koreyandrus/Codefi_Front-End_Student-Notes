@@ -29,15 +29,8 @@ closure();
 // function remembers x.
 ```
 
-**Aim**: Fix the greetingMaker() function to work with the greeting() function.
-The greeting() function has already been created (check the Tests tab).
+**Aim**: Fix the code to print out the string message.
 
-_Example_
-
-```js
-const greeting = greetingMaker("Hello")
-greeting("James")    ➞    "Hello, James"
-```
 
 ---
 
