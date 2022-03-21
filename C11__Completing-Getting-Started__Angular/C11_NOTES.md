@@ -213,5 +213,3 @@ _Note_: You will have to import the FormsModule to the app.module from @angular/
 ### Resources
 
 - [CLI Overview and Command Reference](https://angular.io/cli)
-
-- [Our Group Github Repository Notes](https://github.com/WilderDev/Angular-Bootcamp_Students-Notes)
