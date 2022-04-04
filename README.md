@@ -92,5 +92,8 @@
 
 [Class 14: Angular Book App Components & Databinding - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-2---components-%26-databinding---Final)
 
+---
+
+[Class 15: Review Day](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C15__Review-Day/C15_NOTES.md)
 
 
