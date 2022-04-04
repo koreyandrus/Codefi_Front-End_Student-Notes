@@ -41,6 +41,8 @@
 4. Choose one that resonates with you and scope out the projects main features
 5. Send a message to us with your idea
 
+All projects should CREATE, READ, UPDATE, and DELETE data in some fashion. You can find a list of [public API's here](https://github.com/public-api-lists/public-api-lists)
+
 ---
 
 ---
