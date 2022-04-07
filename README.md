@@ -96,4 +96,11 @@
 
 [Class 15: Review Day](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C15__Review-Day/C15_NOTES.md)
 
+---
+
+
+[Class 16: Angular Book App Directives & Services - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C16__Directives-%26-Services__Angular/C16_NOTES.md)
+
+[Class 16: Angular Book App Directives & Services - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-3---directives-%26-services---final)
+
 
