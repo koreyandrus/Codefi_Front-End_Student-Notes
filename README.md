@@ -12,7 +12,6 @@
 
 ---
 
-
 [Class 3: JavaScript Foundations Part 2 - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C03__JavaScript-Foundations-Part-2__JavaScript/Class/C3_NOTES.md)
 
 [Class 3: JavaScript Foundations Part 2 - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C03__JavaScript-Foundations-Part-2__JavaScript/Class/C3_EXERCISES.md)
@@ -49,12 +48,9 @@
 
 ---
 
-
 [Class 9: Review Day](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C09__JavaScript-Review/C9_NOTES.md)
 
-
 ---
-
 
 [Class 10: Introduction to Typescript - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C10__Introduction-to-Typescript__Angular/Class/C10_NOTES.md)
 
@@ -62,20 +58,17 @@
 
 ---
 
-
 [Class 11: Angular Getting Started - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C11__Completing-Getting-Started__Angular/C11_NOTES.md)
 
 [Class 11: Angular Getting Started - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C11__Completing-Getting-Started__Angular/C11_EXERCISES.md)
 
 ---
 
-
 [Class 12: Angular Basics - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C12__The-Basics__Angular/C12_NOTES.md)
 
 [Class 12: Angular Basics - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C12__The-Basics__Angular/C12_EXERCISES.md)
 
 ---
-
 
 [Class 13: Angular Book App Basics - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C13__Course-Project-Basics-Debugging__Angular/C13_NOTES.md)
 
@@ -84,7 +77,6 @@
 [Class 13: Angular Book App Basics - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-1---basics---Final)
 
 ---
-
 
 [Class 14: Angular Book App Components & Databinding - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C14__Components-Databinding__Angular/C14_NOTES.md)
 
@@ -98,9 +90,13 @@
 
 ---
 
-
 [Class 16: Angular Book App Directives & Services - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C16__Directives-%26-Services__Angular/C16_NOTES.md)
 
 [Class 16: Angular Book App Directives & Services - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-3---directives-%26-services---final)
 
+---
+
+[Class 17: Angular Book App Routing - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C17__Changing-Pages-With-Routing__Angular/C17_NOTES.md)
+
+[Class 17: Angular Book App Routing - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-4---routing---final)
 
