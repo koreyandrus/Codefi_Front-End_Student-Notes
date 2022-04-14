@@ -100,3 +100,9 @@
 
 [Class 17: Angular Book App Routing - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-4---routing---final)
 
+---
+
+[Class 18: Angular Book App Observables - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C18__Understanding-Observables__Angular/C18_NOTES.md)
+
+[Class 18: Angular Book App Observables - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-5---observables---final)
+
