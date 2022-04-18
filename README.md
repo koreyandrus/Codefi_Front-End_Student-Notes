@@ -106,3 +106,11 @@
 
 [Class 18: Angular Book App Observables - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-5---observables---final)
 
+---
+
+[Class 19: Angular Book App Forms - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C19__Handing-Forms__Angular/C19_NOTES.md)
+
+[Class 19: Angular Book App Forms - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C19__Handing-Forms__Angular/C19_EXERCISES.md)
+
+[Class 19: Angular Book App Forms - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-6---forms---final)
+
