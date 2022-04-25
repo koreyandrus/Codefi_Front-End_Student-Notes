@@ -112,3 +112,13 @@
 
 [Class 19: Angular Book App Forms - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-6---forms---final)
 
+---
+
+[Class 20: Angular Book App Forms - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C20__Review-Day/C20_NOTES.md)
+
+---
+
+[Class 21: Angular Book App Forms - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C21__Course-Project-Forms__Angular/C21_NOTES.md)
+
+[Class 21: Angular Book App Forms - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-7---edit-form-%26-sort-pipe---final)
+
