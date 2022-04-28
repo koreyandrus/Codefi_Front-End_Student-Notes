@@ -124,10 +124,10 @@
 
 ---
 
-[Class 21: Angular Book App Forms - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C22__HTTP-Requests__Angular/C22_NOTES.md)
+[Class 22: Angular Book App HTTP & API - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C22__HTTP-Requests__Angular/C22_NOTES.md)
 
 
-[Class 21: Angular Book App Forms - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C22__HTTP-Requests__Angular/C22_EXERCISES.md)
+[Class 22: Angular Book App HTTP & API - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C22__HTTP-Requests__Angular/C22_EXERCISES.md)
 
-[Class 21: Angular Book App Forms - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-8---http-api---final)
+[Class 22: Angular Book App HTTP & API - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-8---http-api---final)
 
