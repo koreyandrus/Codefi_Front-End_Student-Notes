@@ -131,3 +131,10 @@
 
 [Class 22: Angular Book App HTTP & API - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-8---http-api---final)
 
+
+---
+
+[Class 23: Angular Book App Authentication & Route Protection - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C23__Authentication-%26-Route-Protection__Angular/C23_NOTES.md)
+
+[Class 23: Angular Book App Authentication & Route Protection - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-9---Authentication---final)
+
