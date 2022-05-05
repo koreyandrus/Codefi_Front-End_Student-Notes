@@ -138,3 +138,9 @@
 
 [Class 23: Angular Book App Authentication & Route Protection - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-9---Authentication---final)
 
+---
+
+[Class 24: Angular Book App Code-Splitting - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C24__Dynamic-Components__Angular/C24_NOTES.md)
+
+[Class 24: Angular Book App Code-Splitting - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-10---code-splitting)
+
