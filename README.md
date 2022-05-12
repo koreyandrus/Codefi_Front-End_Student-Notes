@@ -144,3 +144,10 @@
 
 [Class 24: Angular Book App Code-Splitting - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-10---code-splitting)
 
+
+---
+
+[Class 25: Angular Book App Deployment - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C25__Deploying-Angular-App__Angular/C25_NOTES.md)
+
+[Class 25: Angular Book App Deployment - Code](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp/tree/Angular-11---deployment---final)
+
